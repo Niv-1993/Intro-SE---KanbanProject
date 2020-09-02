@@ -65,10 +65,12 @@ left (unless it is the leftmost column - then its tasks are moved to the column 
 ##### Steps remove
 - select the column
 - click "Remove"
+
 **8**. ***Tasks can be moved from one column to the following column only (left to right)***
 ##### Steps
 - select the task
 - click on "Advance" button.
+
 **9**. ***A board can be shared with multiple users.***
 
 ### Tasks
@@ -77,6 +79,7 @@ left (unless it is the leftmost column - then its tasks are moved to the column 
 - click on "Add" button under "Task Properties"
 - name a title , description of the task and a due date from the chart
 - click "Add task"
+
 **2**. ***A task is done when it is moved to the last column("done" column).***
 
 **3**. ***Tasks that are not done yet, can be changed.***
