@@ -46,12 +46,15 @@ this order, and the names of the columns can be changed
 - click on "Limit" button
 - input the new limit
 - click"Save".
-**4**. A the creator of the board can add a column
+**4**. A the creator of the board can add a column.
+
 **5**. Only the board creator can change a column's name, limitation, order int the board.
+
 **6**. Supports adding new tasks to its leftmost column only.
+
 **7**. Columns can be added to the board and removed. If a column is removed, its existing tasks are moved to the column on its
-left (unless it is the leftmost column - then its tasks are moved to the column
-on its right).
+left (unless it is the leftmost column - then its tasks are moved to the column on its right).
+
 ##### Steps adding
 - click "Add" (top right) button
 - input the name of the new column
@@ -59,8 +62,7 @@ on its right).
 ##### Steps remove
 - select the column
 - click "Remove"
-**8**. Tasks can be moved from one column to the following column only (left to
-right)
+**8**. Tasks can be moved from one column to the following column only (left to right)
 ##### Steps
 - select the task
 - click on "Advance" button.
@@ -73,6 +75,7 @@ right)
 - name a title , description of the task and a due date from the chart
 - click "Add task"
 **2**. A task is done when it is moved to the last column("done" column).
+
 **3**. Tasks that are not done yet, can be changed.
 ##### Steps
 - double click on the chosen task
@@ -80,11 +83,15 @@ right)
 - click "Save"
 
 **4**. All the task data can be changed, except for the creation time.
-**5**. A task can be assigned to any board’s members. By default, a task is assigned
-to its creator.
+
+**5**. A task can be assigned to any board’s members. By default, a task is assigned to its creator.
+
 **6**. A task can be moved, deleted, and changed only by its **assignee**.
+
 **7**. Tasks can be sorted by the due date by clicking on "Due Date" button.
+
 **8**. An overdue task will be colored as red, and a task that 75% of time passed since the creation will be colored as orange. Also a task that is assigned to the logged-in user will have a blue border.
+
 **9**. Tasks can be filtered by its text fields (i.e. the title and/or the description).
 ##### Steps
 - click "Filter"
