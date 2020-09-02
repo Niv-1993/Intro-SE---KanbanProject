@@ -36,16 +36,19 @@ this order, and the names of the columns can be changed***
 - select the column
 - click "Edit Name"
 - input the new name and click "Save"
+
 **2**. ***The order of the columns can be changed.***
 ##### Steps
 - select the column
 - click "Move Left"/"Move Right".
+
 **3**. ***Each column supports changing the maximum number of its tasks(by default, the maximum number of tasks in each column is limited to 100).***
 ##### Steps 
 - select the column
 - click on "Limit" button
 - input the new limit
 - click"Save".
+
 **4**. ***A the creator of the board can add a column.***
 
 **5**. ***Only the board creator can change a column's name, limitation, order int the board.***
