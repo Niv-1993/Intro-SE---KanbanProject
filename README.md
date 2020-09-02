@@ -18,10 +18,15 @@ Step 2 : unzip and run the "Presentation.exe"
 #### Registration :
 **1**. A user password must be in length of 5 to 25 characters and must include at
 least one uppercase letter, one small character and a number.
+
 **2**. Each valid email address is unique in the system.
+
 **3**. Choose any nickname you want.
+
 **4**. A new user can join any existing board in the system or create a new board.
+
 **5**. Each user is associated with a single board only.
+
 
 
 ### Boards/Columns
